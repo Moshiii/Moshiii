@@ -1,23 +1,30 @@
-# Hi there, I'm Moshi Wei 👋
+# Moshi Wei
 
-  I’m a deep learning researcher and builder focused on practical AI systems, LLM applications, and developer tooling.
+I build practical AI systems for real users: agent runtimes, automation tools, and developer tooling.
 
-  ## What I’m working on
-  - Building AI agents and workflow automation tools
-  - Exploring reliable gateway/runtime systems for real-world deployments
-  - Contributing small, high-impact fixes to open-source projects
+## Focus
+- AI agents and long-running assistant runtimes
+- Developer tooling and workflow automation
+- Multi-agent systems, protocols, and infrastructure
+- Shipping small products with clear user value
 
-  ## Interests
-  - Deep Learning
-  - LLM Engineering
-  - TypeScript / Python
-  - Tooling, DX, and automation
+## Featured Projects
+- [AutoAide](https://github.com/Moshiii/AutoAide)
+  A persistent local assistant runtime for Codex with bot workspaces, session continuity, and channel integrations.
+- [ISEK](https://github.com/Moshiii/ISEK)
+  A decentralized agent-to-agent network framework exploring identity, coordination, and peer-to-peer agent collaboration.
+- [AgentPearl](https://github.com/Moshiii/AgentPearl)
+  A portability tool that extracts the core of an AI agent so it can be inspected, understood, and migrated across frameworks.
 
-  ## Featured Projects
-  - [awesome-deep-learning](https://github.com/Moshiii/awesome-deep-learning)
-  - [Moshiii.github.io](https://github.com/Moshiii/Moshiii.github.io)
-  - [phd_notes](https://github.com/Moshiii/phd_notes)
+## What I care about
+- Making AI agents actually usable outside demos
+- Better runtime homes for assistants
+- Tooling that reduces glue code and operational friction
+- Systems that are simple, composable, and worth maintaining
 
-  ## Connect
-  - GitHub: [@Moshiii](https://github.com/Moshiii)
-  - Website: https://moshiii.github.io/
+## Current Direction
+I’m especially interested in high-leverage remote roles where I can work on AI products, agent infrastructure, developer platforms, or applied LLM systems.
+
+## Connect
+- GitHub: [@Moshiii](https://github.com/Moshiii)
+- Website: https://moshiii.github.io/
