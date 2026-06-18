@@ -10,7 +10,7 @@ AI PhD building practical agent systems, developer tooling, and applied LLM prod
 - Guest speaker in AI communities including MLLM, Datawhale, and WaytoAGI
 
 ## Selected Work
-- [AutoAide](https://github.com/Moshiii/AutoAide)
+- [CodexBridge](https://github.com/Moshiii/CodexBridge)
   Open-source persistent assistant runtime that gives Codex a real runtime home: dedicated workspaces, session continuity, shell execution, and channel integrations.
 - [ISEK](https://github.com/isekOS/ISEK)
   Open-source decentralized multi-agent framework for orchestration, tool execution, state management, and collaborative agent systems.
