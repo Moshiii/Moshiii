@@ -6,7 +6,7 @@ AI PhD building practical agent systems, developer tooling, and applied LLM prod
 - Delivered high-impact LLM products at LRQA (a Goldman Sachs company) and Huawei
 - Founder of [ISEK](https://github.com/isekOS/ISEK), an open-source multi-agent framework with 560+ GitHub stars and a 600+ member community
 - Core contributor to [ANP](https://github.com/agent-network-protocol/anp), an agent network protocol focused on interoperable agent systems
-- Builder of [AutoAide](https://github.com/Moshiii/AutoAide), a persistent assistant runtime for Codex
+- Builder of [CodexBridge](https://github.com/Moshiii/CodexBridge), a persistent assistant runtime for Codex
 - Guest speaker in AI communities including MLLM, Datawhale, and WaytoAGI
 
 ## Selected Work
